@@ -8,3 +8,4 @@ This bot is only designed to work with the HM Treasury Discord server (https://d
 5. Run `node index.js`.
 6. **Unless you fork the process, do not close this instance of the command line or else it will not work. If you need to run other commands, open a new window.**
 7. Enjoy!
+-Amsg
